@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.BLL\\AzureBlobStorage.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.BLL\\AzureBlobStorage.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.BLL\\AzureBlobStorage.BLL.csproj",
+        "projectName": "AzureBlobStorage.BLL",
+        "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.BLL\\AzureBlobStorage.BLL.csproj",
+        "packagesPath": "C:\\Users\\michael.chavarria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\michael.chavarria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.DAL\\AzureBlobStorage.DAL.csproj": {
+                "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.DAL\\AzureBlobStorage.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.DAL\\AzureBlobStorage.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.DAL\\AzureBlobStorage.DAL.csproj",
+        "projectName": "AzureBlobStorage.DAL",
+        "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.DAL\\AzureBlobStorage.DAL.csproj",
+        "packagesPath": "C:\\Users\\michael.chavarria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\michael.chavarria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.ETL\\AzureBlobStorage.ETL.csproj": {
+                "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.ETL\\AzureBlobStorage.ETL.csproj"
+              },
+              "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.LIB\\AzureBlobStorage.LIB.csproj": {
+                "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.LIB\\AzureBlobStorage.LIB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.ETL\\AzureBlobStorage.ETL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.ETL\\AzureBlobStorage.ETL.csproj",
+        "projectName": "AzureBlobStorage.ETL",
+        "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.ETL\\AzureBlobStorage.ETL.csproj",
+        "packagesPath": "C:\\Users\\michael.chavarria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.ETL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\michael.chavarria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.LIB\\AzureBlobStorage.LIB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.LIB\\AzureBlobStorage.LIB.csproj",
+        "projectName": "AzureBlobStorage.LIB",
+        "projectPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.LIB\\AzureBlobStorage.LIB.csproj",
+        "packagesPath": "C:\\Users\\michael.chavarria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michael.chavarria\\source\\repos\\AzureBlobStorage\\AzureBlobStorage.LIB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\michael.chavarria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

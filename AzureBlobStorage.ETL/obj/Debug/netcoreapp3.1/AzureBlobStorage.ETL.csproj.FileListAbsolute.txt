@@ -1,0 +1,9 @@
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.deps.json
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\obj\Debug\netcoreapp3.1\AzureBlobStorage.ETL.csprojAssemblyReference.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\obj\Debug\netcoreapp3.1\AzureBlobStorage.ETL.AssemblyInfoInputs.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\obj\Debug\netcoreapp3.1\AzureBlobStorage.ETL.AssemblyInfo.cs
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\obj\Debug\netcoreapp3.1\AzureBlobStorage.ETL.csproj.CoreCompileInputs.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\obj\Debug\netcoreapp3.1\AzureBlobStorage.ETL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.ETL\obj\Debug\netcoreapp3.1\AzureBlobStorage.ETL.pdb

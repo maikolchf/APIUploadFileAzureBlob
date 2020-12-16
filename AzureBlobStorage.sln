@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage.DAL", "AzureBlobStorage.DAL\AzureBlobStorage.DAL.csproj", "{445D28D7-00C1-4E02-A78E-F90CCB635386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage.BLL", "AzureBlobStorage.BLL\AzureBlobStorage.BLL.csproj", "{27310913-DDEB-4B63-A94E-246B0D7AB9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage.API", "AzureBlobStorage.API\AzureBlobStorage.API.csproj", "{C97E5EA3-BA8A-4410-8A68-EF030F0979B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage.ETL", "AzureBlobStorage.ETL\AzureBlobStorage.ETL.csproj", "{7231186A-189D-4A20-8437-B14A9D6DDE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage.LIB", "AzureBlobStorage.LIB\AzureBlobStorage.LIB.csproj", "{54534FAB-F166-417D-9617-3CA4B6576FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445D28D7-00C1-4E02-A78E-F90CCB635386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445D28D7-00C1-4E02-A78E-F90CCB635386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445D28D7-00C1-4E02-A78E-F90CCB635386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445D28D7-00C1-4E02-A78E-F90CCB635386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27310913-DDEB-4B63-A94E-246B0D7AB9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27310913-DDEB-4B63-A94E-246B0D7AB9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27310913-DDEB-4B63-A94E-246B0D7AB9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27310913-DDEB-4B63-A94E-246B0D7AB9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97E5EA3-BA8A-4410-8A68-EF030F0979B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97E5EA3-BA8A-4410-8A68-EF030F0979B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97E5EA3-BA8A-4410-8A68-EF030F0979B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97E5EA3-BA8A-4410-8A68-EF030F0979B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7231186A-189D-4A20-8437-B14A9D6DDE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7231186A-189D-4A20-8437-B14A9D6DDE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7231186A-189D-4A20-8437-B14A9D6DDE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7231186A-189D-4A20-8437-B14A9D6DDE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54534FAB-F166-417D-9617-3CA4B6576FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54534FAB-F166-417D-9617-3CA4B6576FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54534FAB-F166-417D-9617-3CA4B6576FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54534FAB-F166-417D-9617-3CA4B6576FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A79470-7E90-4393-B4C6-EEFDE159F4BC}
+	EndGlobalSection
+EndGlobal

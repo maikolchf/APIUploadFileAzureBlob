@@ -1,0 +1,16 @@
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.BLL.deps.json
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.BLL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.BLL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.DAL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.DAL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.csprojAssemblyReference.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.AssemblyInfoInputs.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.AssemblyInfo.cs
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.csproj.CoreCompileInputs.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.csproj.CopyComplete
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\obj\Debug\netcoreapp3.1\AzureBlobStorage.BLL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.LIB.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.BLL\bin\Debug\netcoreapp3.1\AzureBlobStorage.LIB.pdb

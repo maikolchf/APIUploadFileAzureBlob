@@ -1,0 +1,14 @@
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.AssemblyInfoInputs.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.AssemblyInfo.cs
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.csprojAssemblyReference.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.DAL.deps.json
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.DAL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.DAL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.ETL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.csproj.CoreCompileInputs.cache
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.csproj.CopyComplete
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\obj\Debug\netcoreapp3.1\AzureBlobStorage.DAL.pdb
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.LIB.dll
+C:\Users\michael.chavarria\source\repos\AzureBlobStorage\AzureBlobStorage.DAL\bin\Debug\netcoreapp3.1\AzureBlobStorage.LIB.pdb
